@@ -1,6 +1,7 @@
 Uuid: 8b4fe2571ec54983b6d6c21fbfe17cb2
 ExtensionType: 2
 Name: Headers Analyzer
+RepoName: headers-analyzer
 ScreenVersion: 0.1
 SerialVersion: 2
 MinPlatformVersion: 0
